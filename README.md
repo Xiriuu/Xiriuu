@@ -1,7 +1,7 @@
 # João Vinícius
 
-Sou do Maranhão, tenho 23 anos e curso Análise e desenvolvimento de Sistemas na UEMA.
-Trabalho como Técnico de Informática desde 2015, e atualmente trabalho para o Grupo GIP.
+Sou do Maranhão, tenho 25 anos e curso Análise e desenvolvimento de Sistemas na **UEMA**.
+Trabalho como Técnico de Informática desde 2015, e atualmente atuo como Micro Empreendedor Individual.
 
 ## Redes Sociais
 
@@ -13,7 +13,6 @@ Trabalho como Técnico de Informática desde 2015, e atualmente trabalho para o 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiriuu&theme=transparent&bg_color=000&border_color=000C&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF&hide_title=true)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xiriuu&layout=compact&bg_color=000&border_color=30A3DC&title_color=FF0000&text_color=FFF)
 
 ## Skills
