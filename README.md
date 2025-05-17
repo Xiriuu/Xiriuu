@@ -1,4 +1,6 @@
-<h1 align="left">João Vinícius</h1>
+<h1 align="center">João Vinícius</h1>
+<img align="right" height="100" src="./XIRIUZIN.gif">
+
 
 ###
 
@@ -22,6 +24,7 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
 
 ###
 
