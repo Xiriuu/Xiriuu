@@ -1,26 +1,80 @@
-# João Vinícius
+<h1 align="left">João Vinícius</h1>
 
-Sou do Maranhão, tenho 25 anos e curso Análise e desenvolvimento de Sistemas na **UEMA**.
-Trabalho como Técnico de Informática desde 2015, e atualmente atuo como Micro Empreendedor Individual.
+###
 
-## Redes Sociais
+<h4 align="left">Sou do Maranhão, tenho 25 anos e curso Análise e desenvolvimento de Sistemas na UEMA.<br>Trabalho como Técnico de Informática desde 2015, e atualmente atuo como Micro Empreendedor Individual.</h4>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/joaovinicius-/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23000?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/jaovinic/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xiriuu)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=)](https://discord.com/channels/@xiriuu/)
+###
 
-## GitHub Stats
+<br clear="both">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xiriuu&theme=transparent&bg_color=000&border_color=000C&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF&hide_title=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xiriuu&layout=compact&bg_color=000&border_color=30A3DC&title_color=FF0000&text_color=FFF)
+<div align="left">
+  <a href="https://www.linkedin.com/in/joaovinicius-/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jaovinic/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@jaovinic&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/@xiriuu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
+  </a>
+  <a href="joao_vf15@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-## Skills
+###
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<h2 align="left">Skills</h2>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=angular" height="32" alt="angularjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="32" alt="windows8 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="32" alt="fedora logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="32" alt="intellij logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="32" alt="trello logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=md" height="32" alt="markdown logo"  />
+</div>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xiriuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Minhas%20Estat%C3%ADsticas" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xiriuu&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Xiriuu&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
